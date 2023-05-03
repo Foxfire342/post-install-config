@@ -22,11 +22,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create different role for agents ( ex: Supreme Admin, Admin)
+- Create different departments in osTicket ( ex: Accounting, System Administrators)
+- Setup different support level teams ( ex: Level 1 Support, Level 2 Support)
+- Set up permissions for ticket creation by users
+- Configure different agents/workers 
+- Configure different users/customers
+- Setup SLA ( Service Level Agreements)
+- Configure Help Topics ( ex: Business Critical Outage, Password Reset, etc)
 
 <h2>Configuration Steps</h2>
 
