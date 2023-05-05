@@ -107,9 +107,9 @@ Configure Help Topics
 ___
 
 <p>
-<img src="https://i.imgur.com/5x0yFb9.png" height="80%" width="80%" alt="Configuring SLA"/>
+<img src="https://i.imgur.com/5x0yFb9.png" height="80%" width="80%" alt="Tutorial Complete"/>
 </p>
 <p>
-Configure SLA
+Tutorial Complete
 </p>
 
