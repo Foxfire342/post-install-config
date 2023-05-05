@@ -107,7 +107,7 @@ Configure Help Topics
 ___
 
 <p>
-<img src="https://i.imgur.com/5x0yFb9.png" height="80%" width="80%" alt="Tutorial Complete"/>
+<img src="https://i.imgur.com/kd2v9Jf.png" height="80%" width="80%" alt="Tutorial Complete"/>
 </p>
 <p>
 Tutorial Complete
