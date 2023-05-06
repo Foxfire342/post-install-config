@@ -86,7 +86,10 @@ ___
 <img src="https://i.imgur.com/8P2bUny.png" height="80%" width="80%" alt="Configure Agents"/>
 </p>
 <p>
-Setup Agent Profiles
+Next we will be cconfiguring two new agents in osTicket. These agents can be added to different deparments and teams and they can also be assigned
+tickets as well. To create new agents, stay in the admin panel and click the agents tab at the top and then click add new agent. You can give your 
+new agent whatever new name and email address that you would like. Also you will need to give you agent a username and then click set password to assign
+a password. On the password page uncheck "send the agent a password reset email" and also uncheck "require password change at next login". Enter in your password and then click set. Then click over to the access tab and you can assign your new agent to a department and give them a specific role. Then next in the teams tab you can assign them to one of the new teams that you created earlier. Once you are done hit create and then repeat the same process to create a second agent.
 </p>
 
 ___
