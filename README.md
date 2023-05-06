@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Create different role for agents ( ex: Supreme Admin, Admin)
 - Create different departments in osTicket ( ex: Accounting, System Administrators)
-- Setup different support level teams ( ex: Level 1 Support, Level 2 Support)
+- Setup different support level teams ( ex: Level 2 Support, Level 3 Support)
 - Configure permissions for ticket creation by customers
 - Configure different agents/workers 
 - Configure different users/customers
@@ -62,7 +62,10 @@ ___
 <img src="https://i.imgur.com/08AnFrn.png" height="80%" width="80%" alt="Configure Teams"/>
 </p>
 <p>
-Adding Teams
+Next we will be creating different teams in osTicket. Teams can be used to seperate agents by support level or by tasks.
+For example you can create a level 1 support team for lower priority tickets and a escalations team that handles higher priority tickets.
+To configure a new team simply head to the Teams tab that is next to the roles tab. Once on the teams page click add new team and give the 
+new team a name. Then click members and assign yourself as a member of the newly created team and then press create team at the bottom.
 </p>
 
 ___
