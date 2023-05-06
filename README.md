@@ -123,7 +123,11 @@ ___
 <img src="https://i.imgur.com/KUcA4Nz.png" height="80%" width="80%" alt="Configure Help Topics"/>
 </p>
 <p>
-Configure Help Topics 
+Now that our service level agreements have been set up we can move on to configuring help topics which is our final objective in this
+tutorial. To configure help topics stay in the admin panel and manage tab and select help topics. Once inside help topics add "new help topic".
+Add at least four different help topics of varying levels of severity. Examples can be business critical outages, personal computer issues, pasword
+reset, etc. After adding in the topic, click "add topic" down below. 
+
 </p>
 
 ___
@@ -132,6 +136,7 @@ ___
 <img src="https://i.imgur.com/ZMRmYeB.png" height="80%" width="80%" alt="Tutorial Complete"/>
 </p>
 <p>
-Tutorial Complete
+Congratulations, you have completed this tutorial and completed the osTicket configuration objectives. You can now move on to the third and
+final tutorial called ticket lifecycles where we will go over the lifecycle of a ticket in IT.
 </p>
 
