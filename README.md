@@ -98,7 +98,11 @@ ___
 <img src="https://i.imgur.com/tsaje8m.png" height="80%" width="80%" alt="Adding Users"/>
 </p>
 <p>
-Add Users
+Now that we have added some agents, it is time to add two users. Users will be the ones to send tickets to the agents that need to be 
+resolved. We have spent most of our time in the admin panel for this tutorial but we will need to switch over to the agent panel in order
+to create the users. One in the agent panel click the users tab at the top and then click add user. Once in the window add an the user email 
+address and full name. You can also create a fake phone number and add internal notes it you would like and then click the add user button.
+Repeat this process again to create the second user.
 </p>
 
 ___
