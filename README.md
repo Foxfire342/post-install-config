@@ -37,7 +37,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/thvxoMH.png" height="80%" width="80%" alt="Setting Up Roles"/>
 </p>
 <p>
-Roles
+If you followed my previous tutorial for installing osTicket, you should now have fully installed osTicket with all of the necessary
+prerequistes and with a username and password to access your admin and agent panel. In this tutorial we will be configuring different 
+aspects of osTicket so that we can simulate the typical ticket lifecycle found in IT in my next tutorial.  To starts things off we will
+be configuring different roles in osTicket and to do this click your Admin Panel button at the top and then select the Agents tab in the 
+upper second row and then select roles. Click Add New Role and create a new role name. I decided to create a role called Supreme Admin that
+esstentially has all permissions granted but you can call your new role whatever you would like to. Once you name your new role, go over to 
+the permissions tab and select what permisions you would like this particular role to have and then once you are done click add role at the
+bottom to complete your new role. You can create as many new roles that as needed.
 </p>
 
 ___
@@ -46,7 +53,7 @@ ___
 <img src="https://i.imgur.com/09LKDYq.png" height="80%" width="80%" alt="Adding New Departments"/>
 </p>
 <p>
-Departments
+Next we will be configuring different departments. Departments are pretty useful because you can assign specific agents to different departments and even assign specific SLA ( service level agreements) to certain departments.  To get to the departments page, stay in the admin panel and agents tab and simply click departments which should be next to the roles button. Then click add new department. Once on this page, add a department name ( example: System Administrators, DevOps, Cloud). Right now we don't have our SLAs set up yet so we can leave the SLA and Schedule lines on default. Once we configure that you can always come back and update the department information. You can also assign a manager and since there is only one agent created so far (yourself) you can assign it to your username. Once you are done, simply click the create department button at the bottom.
 </p>
 
 ___
