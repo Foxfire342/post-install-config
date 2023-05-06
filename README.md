@@ -111,7 +111,10 @@ ___
 <img src="https://i.imgur.com/5x0yFb9.png" height="80%" width="80%" alt="Configuring SLA"/>
 </p>
 <p>
-Configure SLA
+Now that the users have been created we will move to configuring three service level agreements in osTicket. To do this, switch over
+to the admin panel and click the manage tab at the top. Then below the manage tab click SLA and then select "Add new SLA Plan". The first 
+SLA Plan that we would want to add would be SEV-A, with a grace period of 1 hour and a schedule of 24/7. The grace period is how fast that the issue would need to be responded to (esstentially within one hour) and the schedule defines whether this would need to be addressed during business hours 
+or on the weekend. Sev-A would be for severe incidents like an huge business outage. Click "add plan" once you are done. Next add SEV-B, with a grace period of 4 hours and a schdule of 24/7. This SLA  would be for medium level incidents like a department having issues with accessing microsoft powerpoint or microsoft word. Then lastly you would add a new plan called SEV-C, with a grace period of 8 hours and schedule of Monday through Friday business hours. This SLA would be for minor issues like your password needing to be reset. 
 </p>
 
 ___
