@@ -75,7 +75,9 @@ ___
 <img src="https://i.imgur.com/wLrxl1c.png" height="80%" width="80%" alt="Setting up user permissions"/>
 </p>
 <p>
-Ticket Permissions
+Next we will be setting up ticket settings to allow anyone to create a ticket with out restrictions. To do this stay in the admin panel
+and click the settings tab at the top and then click users. Once on the page simply check "require registration and login to create tickets" 
+and then save changes.
 </p>
 
 ___
